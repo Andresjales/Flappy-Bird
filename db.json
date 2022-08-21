@@ -1,0 +1,32 @@
+{
+    "leaderboard":
+    {
+        "scores":   [
+            {
+                "userId": 1,
+                "value": 5,
+                "name": "Juan Pablo"
+            },
+            {
+                "userId":2,
+                "value": 2,
+                "name": "Juan Manuel"
+            },
+            {
+                "userId":3,
+                "value": 4,
+                "name": "Mateo"
+            },
+            {
+                "userId":4,
+                "value": 14,
+                "name": "Andres"
+            },
+            {
+                "userId":5,
+                "value": 10,
+                "name": "Yefri"
+            }
+        ] 
+    }
+  }
