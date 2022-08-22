@@ -1838,7 +1838,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e968c4b65d0088c44ae8df8de507ed5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  URL: https://my-json-server.typicode.com/Andresjales/Flappy-bird
+  URLLeaderboard: https://my-json-server.typicode.com/Andresjales/Flappy-Bird
+  URLLogIn: https://unitywebrequest-restapi.herokuapp.com
   players:
   - {fileID: 498306305}
   - {fileID: 431343953}
