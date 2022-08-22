@@ -11,7 +11,6 @@ public class Score : MonoBehaviour
         score = 0;
     }
 
-    // Update is called once per frame
     void Update()
     {
         GetComponent<UnityEngine.UI.Text>().text = score.ToString();
